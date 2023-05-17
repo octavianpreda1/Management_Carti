@@ -1,1 +1,32 @@
-{"2":{"titlul":"De veghe in lanul de secara","autorul":"J.D. SALINGER","anul":1951},"3":{"titlul":"Mitul lui Camus","autorul":"Albert Camus","anul":1942},"4":{"titlul":"Scurta istorie a omenirii","autorul":"Yuval Noah Harari","anul":2011},"5":{"titlul":"Homo deus - Scurta istorie a viitorului","autorul":"Yuval Noah Harari","anul":2011},"6":{"titlul":"21 de lectii pentru secolul XXI","autorul":"Yuval Noah Harari","anul":2018},"1":{"titlul":"The bag with two coins","autorul":"John Branch","anul":1900}}
+{
+  "2" : {
+    "titlul" : "De veghe in lanul de secara",
+    "autorul" : "J.D. SALINGER",
+    "anul" : 1951
+  },
+  "3" : {
+    "titlul" : "Mitul lui Camus",
+    "autorul" : "Albert Camus",
+    "anul" : 1942
+  },
+  "4" : {
+    "titlul" : "Scurta istorie a omenirii",
+    "autorul" : "Yuval Noah Harari",
+    "anul" : 2011
+  },
+  "5" : {
+    "titlul" : "Homo deus - Scurta istorie a viitorului",
+    "autorul" : "Yuval Noah Harari",
+    "anul" : 2011
+  },
+  "6" : {
+    "titlul" : "21 de lectii pentru secolul XXI",
+    "autorul" : "Yuval Noah Harari",
+    "anul" : 2018
+  },
+  "1" : {
+    "titlul" : "The bag with two coins",
+    "autorul" : "John Branch",
+    "anul" : 1900
+  }
+}

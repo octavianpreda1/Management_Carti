@@ -1,0 +1,34 @@
+[ [ "Instrumente_muzicale.SetTobe", {
+  "producator" : "Pearl",
+  "pret" : 2500,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 12,
+  "nr_cinele" : 2
+} ], [ "Instrumente_muzicale.Chitara", {
+  "producator" : "Fender",
+  "pret" : 1500,
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 12
+} ], [ "Instrumente_muzicale.SetTobe", {
+  "producator" : "Roland",
+  "pret" : 2900,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ], [ "Instrumente_muzicale.Chitara", {
+  "producator" : "Gibson",
+  "pret" : 2000,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 6
+} ], [ "Instrumente_muzicale.Chitara", {
+  "producator" : "Yamaha",
+  "pret" : 1800,
+  "tip_chitara" : "CLASICA",
+  "nr_corzi" : 6
+} ], [ "Instrumente_muzicale.SetTobe", {
+  "producator" : "Ludwig",
+  "pret" : 4000,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 6,
+  "nr_cinele" : 4
+} ] ]
